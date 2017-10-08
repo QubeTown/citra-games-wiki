@@ -1,0 +1,19 @@
+title = "Mario & Luigi: Superstar Saga + Bowser's Minions"
+description = "Mario & Luigi: Superstar Saga + Bowser's Minions is a remake of the GBA game Mario & Luigi: Superstar Saga. It features updated graphics and a new mode, Minion Quest: The Search for Bowser. It's an RPG game developed by AlphaDream and published by Nintendo."
+needs_system_files = false
+needs_shared_font = true
+
+[[releases]]
+title = "00040000001B8F00"
+region = "usa"
+release_date = "2017-10-02"
+
+[[testcases]]
+title = "00040000001B8F00"
+compatibility = "0"
+date = "2017-10-06"
+version = "HEAD-30fabc4"
+cpu = "AMD Ryzen 7 1700 Eight-Core Processor"
+gpu = "GeForce GTX 750Ti"
+os = "Windows 10 15063"
+author = "QubeTown"
